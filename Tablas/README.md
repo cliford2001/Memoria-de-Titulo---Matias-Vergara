@@ -1,5 +1,5 @@
 
-# Proyecto de Análisis de Eventos Genéticos
+# Tablas
 
 Este repositorio contiene los archivos de datos generados para el análisis de varios eventos genéticos, incluyendo el uso diferencial de exones (DEU), uso diferencial de transcritos (DTU), análisis de expresión diferencial de genes (DEA) y eventos de splicing. A continuación, se describen los archivos principales y su contenido.
 
