@@ -9,7 +9,3 @@ En este directorio encontrarás los scripts y códigos utilizados para el análi
 
 ### 2. [Tablas](./Tablas/README.md)
 Este directorio contiene las tablas suplementarias que no fueron incluidas directamente en el documento principal de la tesis debido a limitaciones de formato.
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme en: mativ62@gmail.com.
